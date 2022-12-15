@@ -20,7 +20,7 @@ where
 and age <= 30;*/
 	age between 25 and 30; /* 위아래는 같다.*/
 
-    
+
 /*not사용법*/    
 select
 	*
