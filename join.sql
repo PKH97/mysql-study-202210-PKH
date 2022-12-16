@@ -49,4 +49,5 @@ select
 	*
 from
 	subject_mst sjm
-    right outer join score_mst sm on(sm.subject_id = sjm.subject_id);   
+    right outer join score_mst sm on(sm.subject_id = sjm.subject_id);  
+    
